@@ -57,6 +57,14 @@ websites:
       software: Yes
       doc: https://docs.fastly.com/guides/getting-started/enabling-and-disabling-twofactor-authentication
 
+    - name: fortrabbit
+      url: https://www.fortrabbit.com
+      img: fortrabbit.png
+      tfa: Yes
+      software: Yes
+      twitter: fortrabbit
+      doc: https://help.fortrabbit.com/security#toc-two-factor-authentication
+
     - name: Glesys
       url: http://glesys.com/
       img: glesys.png
